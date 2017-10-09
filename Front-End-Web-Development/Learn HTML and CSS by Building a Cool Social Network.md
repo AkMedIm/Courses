@@ -6,24 +6,24 @@
 
 ***< HTML >***   
 
-• What Is HTML?
-• What is an HTML Tag?
-• HTML Tag Quiz
-• Web Design Image
-• what do you need to get started?
-• Quick Introduction to Visual Studio Editor
-• Resources for HTML
-• HTML BoilerPlate
-• Text Tags
-• List Tags
-• Image Tag
-• Container Tags
-• Anchor Tag
-• Table Tags
-• HTML FORMS
-• Link and Scripts tag
-• Branding Elements
-• Test Your skills on HTML QUIZ
+* What Is HTML?
+* What is an HTML Tag?
+* HTML Tag Quiz
+* Web Design Image
+* what do you need to get started?
+* Quick Introduction to Visual Studio Editor
+* Resources for HTML
+* HTML BoilerPlate
+* Text Tags
+* List Tags
+* Image Tag
+* Container Tags
+* Anchor Tag
+* Table Tags
+* HTML FORMS
+* Link and Scripts tag
+* Branding Elements
+* Test Your skills on HTML QUIZ
 
 ***< CSS >***
 
