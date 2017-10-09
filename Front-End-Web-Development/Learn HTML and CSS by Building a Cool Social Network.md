@@ -1,10 +1,10 @@
 
 # Learn HTML and CSS by Building a Cool Social Network (CodingPhase)
- 
 
 
 
-***<HTML>***   
+
+***< HTML >***   
 
 • What Is HTML?
 • What is an HTML Tag?
@@ -22,10 +22,10 @@
 • Table Tags
 • HTML FORMS
 • Link and Scripts tag
-• Branding Elements 
+• Branding Elements
 • Test Your skills on HTML QUIZ
 
-***<CSS>***
+***< CSS >***
 
 • What is css?
 • 3 Ways to Write CSS
@@ -58,6 +58,3 @@
 • Finalizing the post
 
 /----- COMPLETED | 14/08/2017 -----/
-
-
-
