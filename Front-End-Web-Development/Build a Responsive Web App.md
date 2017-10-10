@@ -1,4 +1,4 @@
-# Build a Responsive Web App
+# Build a Responsive Web App [CodingPhase]
 
 *  Introduction
 * Build the homepage
