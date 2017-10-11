@@ -4,7 +4,7 @@
 
 
 
-***< HTML >***   
+***HTML***   
 
 * What Is HTML?
 * What is an HTML Tag?
@@ -25,7 +25,7 @@
 * Branding Elements
 * Test Your skills on HTML QUIZ
 
-***< CSS >***
+***CSS***
 
 * What is css?
 * 3 Ways to Write CSS
@@ -40,7 +40,7 @@
 * Mid Advice
 * Position Elements
 
-***<Design to HTML & CSS >***
+***Design to HTML & CSS***
 
 * Original Image
 * Break Down the Design
