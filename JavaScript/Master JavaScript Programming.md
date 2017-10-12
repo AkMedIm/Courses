@@ -73,4 +73,11 @@
 * Prototype: How to use it in real life
 * Prototype: Arguments, Delete, For in
 
+***Connect GET & POST***
+
+* What is GET & POST ?
+* How to use GET ?
+* How to use POST ?
+
+
 ## NOT COMPLETED YET |
