@@ -5,4 +5,6 @@
 * Intro
 * installing Node JS
 * Atom Setup
-* Understanding how websites work 
+* Understanding how websites work
+
+## NOT COMPLETED YET | 
