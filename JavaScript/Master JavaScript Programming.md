@@ -1,4 +1,4 @@
-# Master JavaScript Programming [Udemy]
+# Master JavaScript Programming [Coding Revolution]
 
 ***Starting with JS***
 
