@@ -1,3 +1,5 @@
+[](https://udemy-images.udemy.com/course/304x171/1260288_7a7d_3.jpg)
+
 # Master JavaScript Programming [Coding Revolution]
 
 ***Starting with JS***
