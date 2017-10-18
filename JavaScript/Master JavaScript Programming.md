@@ -79,5 +79,16 @@
 * How to use GET ?
 * How to use POST ?
 
+***ES6 ( ECMAScript 2016 )***
+
+* Let and Const
+* Scope with Const and Let
+* Template string
+
+***ES6 - Using Helpers***
+
+* Helpers
+
+
 
 ## NOT COMPLETED YET |
