@@ -1,4 +1,4 @@
-![ Alt text ](https://udemy-images.udemy.com/course/304x171/1260288_7a7d_3.jpg "udemy")
+![ Alt text ](https://udemy-images.udemy.com/course/304x171/1260288_7a7d_3.jpg "Udemy Course")
 
 # Master JavaScript Programming [Coding Revolution]
 
