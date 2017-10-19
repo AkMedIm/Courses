@@ -90,6 +90,10 @@
 ***ES6 - Using Helpers***
 
 * Helpers
+* forEach Helper
+* forEach Helper - Example 1
+* forEach Helper - Example 2
+* forEach Helper - Exercise 
 
 
 
