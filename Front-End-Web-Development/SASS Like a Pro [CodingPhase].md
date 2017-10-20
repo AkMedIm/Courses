@@ -9,4 +9,4 @@
 * Mixins functions in CSS
 * How to run sass locally
 
-# COMPLETED | 10/20/2017
+## COMPLETED | 10/20/2017
