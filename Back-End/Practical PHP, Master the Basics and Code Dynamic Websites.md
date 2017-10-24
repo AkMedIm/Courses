@@ -18,4 +18,12 @@
 * Defining Constants
 * Get Your Hands Dirty!
 
+***PHP Arrays***
+
+* PHP Arrays
+* PHP Associative Arrays
+* PHP Multi-Dimensional Arrays
+* Get Your Hands Dirty
+
+
 ## NOT COMPLETED YET |
