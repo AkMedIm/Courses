@@ -95,6 +95,10 @@
 * forEach Helper - Example 2
 * forEach Helper - Exercise
 * Map Helper
+* Map Helper - Example 1
+* Map Helper - Exercise one
+* Map Helper - Exercice two
+* Filter Helper
 
 
 
