@@ -93,7 +93,8 @@
 * forEach Helper
 * forEach Helper - Example 1
 * forEach Helper - Example 2
-* forEach Helper - Exercise 
+* forEach Helper - Exercise
+* Map Helper
 
 
 
