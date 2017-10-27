@@ -12,5 +12,7 @@
 * Initialize our project
 * Require and Export Modules
 * Basic Routing and Serving Static files
+* Node JS Folder structure
+* Cleaning up our routes
 
 ## NOT COMPLETED YET |
