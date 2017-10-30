@@ -99,7 +99,10 @@
 * Map Helper - Exercise one
 * Map Helper - Exercice two
 * Filter Helper
-
+* Filter Helper - Example
+* Filter Helper - Exercise one
+* Filter Helper - Exercise two
+* Find Helper
 
 
 ## NOT COMPLETED YET |
